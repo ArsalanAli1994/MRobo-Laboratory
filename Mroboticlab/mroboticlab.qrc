@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Mroboticlab">
+        <file>stopWatch.jpg</file>
+        <file>maxresdefault.jpg</file>
+        <file>Remote.jpg</file>
+        <file>LRN.jpg</file>
+        <file>dumy.jpg</file>
+        <file>Main pic.jpg</file>
+        <file>Comsats logo_2.jpg</file>
+        <file>bg-rb.jpg</file>
+        <file>Robotic_software_logo.jpg</file>
+        <file>png-clipart-about-us-logo-business-logo-company-brand-service-icon-about-us-hd-miscellaneous-blue_dark.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Qt_Dashboard_Robo">
+        <file>bg-rb_600x450.jpg</file>
+    </qresource>
+</RCC>
